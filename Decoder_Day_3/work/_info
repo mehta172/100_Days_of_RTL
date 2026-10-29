@@ -1,0 +1,55 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/chipi/OneDrive/Desktop/Projects/100_Days_of_RTL/Decoder_Day_3
+vDecoder_3_to_8
+Z1 !s110 1793180812
+!i10b 1
+!s100 ^f_S8LljYo;_dc7cn;bk?2
+I1DI[^7eh`nB67SU?BPT]O0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1793180389
+8Decoder_3_to_8.v
+FDecoder_3_to_8.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1793180812.000000
+Z5 !s107 Decoder_3_to_8_tb.sv|Decoder_3_to_8.v|
+Z6 !s90 -reportprogress|300|Decoder_3_to_8.v|Decoder_3_to_8_tb.sv|
+!i113 1
+Z7 tCvgOpt 0
+n@decoder_3_to_8
+vDecoder_3_to_8_tb
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R1
+!i10b 1
+!s100 Heim[3gIlIdRKMl3A23^d2
+Ij=R_2b<jPCUII1D[6gL8:0
+R2
+!s105 Decoder_3_to_8_tb_sv_unit
+S1
+R0
+w1793180524
+8Decoder_3_to_8_tb.sv
+FDecoder_3_to_8_tb.sv
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+n@decoder_3_to_8_tb
