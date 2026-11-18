@@ -6,7 +6,7 @@ module tb();
     reg i_load;
     wire o_q;
     
-    reg [3:0] shift_data;
+    //reg [3:0] shift_data;
 
     piso DUT(.i_d(i_d), .i_clk(i_clk), .i_load(i_load), .i_rst(i_rst), .o_q(o_q));
 
@@ -17,30 +17,21 @@ module tb();
 
     initial begin
         i_rst = 1'b0;
-        i_d   = 1'b0;
+        i_d   = 4'b0000;
         i_load = 1'b0;
 
         #12;
         i_rst = 1'b1;
         i_load = 1'b1;
-        transfer(4'b1011);
+        i_d = 4'b1011;
+
+        #10;
+        i_load = 1'b0;
+        #40;
+        i_load = 1'b1;
 
         #100;
         $finish;
     end
-
-    task transfer(input [3:0] data);
-        integer i;
-        begin
-            shift_data = data;
-            for (i = 3; i >= 0; i = i - 1) begin
-                @(negedge i_clk);
-                i_d = shift_data[i];
-                @(posedge i_clk);
-                #1;
-                $display("Time=%0t, i_d=%b, o_q=%b", $time, i_d, o_q);
-            end
-        end
-    endtask
 
 endmodule
