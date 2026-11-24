@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/chipi/OneDrive/Desktop/Projects/100_Days_of_RTL/Up_Down_Counter
+vtb
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1795519923
+!i10b 1
+!s100 GW^@;nCaznKch=1__@Ez@1
+IzMYS4h0=_6AoR_joPm_IU0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 tb_sv_unit
+S1
+R0
+w1795519856
+8tb.sv
+Ftb.sv
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1795519923.000000
+Z5 !s107 tb.sv|up_down_counter.v|
+Z6 !s90 -reportprogress|300|up_down_counter.v|tb.sv|
+!i113 1
+Z7 tCvgOpt 0
+vup_down_counter
+R1
+!i10b 1
+!s100 :>9MM^CQdiG7@405m7zG70
+IREjdLi;]LGznJ?`k]B3gF3
+R2
+R0
+w1795519737
+8up_down_counter.v
+Fup_down_counter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
