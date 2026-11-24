@@ -1,0 +1,75 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dA:/RTL_Projects/100_Days_of_RTL/Gray_Code_Counter
+T_opt
+!s110 1795536123
+VPCkDnUXkm9P=1eFOSa^F31
+04 2 4 work tb fast 0
+=1-04d4c4dfcfdc-6b05b4fb-3f-998
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+R1
+vgray_code_counter
+Z3 2gray_code_counter.v|tb.sv
+Z4 !s110 1795536260
+!i10b 1
+!s100 >]<XC?8f67[9cmnlKo7U32
+IPVzZ_JcdMm_b0E6B3S1;11
+R1
+w1795535892
+8gray_code_counter.v
+Fgray_code_counter.v
+!i122 3
+L0 1 28
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z7 !s108 1795536260.000000
+!s107 tb.sv|gray_code_counter.v|
+Z8 !s90 -reportprogress|300|gray_code_counter.v|tb.sv|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb
+R3
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R4
+!i10b 1
+!s100 ^FWD]cTXV<;1<iI?U<8]k3
+IoQ6U?hj]]V=j_<2::QIXk1
+S1
+R1
+w1795536118
+8tb.sv
+Ftb.sv
+!i122 3
+L0 1 24
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z10 !s107 tb.sv|gray_code_counter.v|
+R8
+!i113 0
+R9
+R2

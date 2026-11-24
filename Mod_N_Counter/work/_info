@@ -1,0 +1,76 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 dA:/RTL_Projects/100_Days_of_RTL/Mod_N_Counter
+T_opt
+!s110 1795534943
+V6M9okRdXbgd;HR3z_@6>i1
+04 2 4 work tb fast 0
+=1-04d4c4dfcfdc-6b05b05e-3ce-1790
+R1
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z3 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+vmod_n_counter
+Z4 2mod_n_counter.v|tb.sv
+Z5 !s110 1795534940
+!i10b 1
+!s100 dYLXGOfmi0f]`<j0z6dX10
+I7hoT[:CYf>fKh1Gj>aLE13
+R2
+w1795534929
+8mod_n_counter.v
+Fmod_n_counter.v
+!i122 2
+Z6 L0 1 24
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z9 !s108 1795534940.000000
+Z10 !s107 tb.sv|mod_n_counter.v|
+Z11 !s90 -reportprogress|300|mod_n_counter.v|tb.sv|
+!i113 0
+Z12 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vtb
+R4
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R5
+!i10b 1
+!s100 a0:?>1`Wa@J8OV>P0D;1L3
+Ib`nhaa9^W09eNH;V1C3M61
+S1
+R2
+w1795534671
+8tb.sv
+Ftb.sv
+!i122 2
+R6
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R3
